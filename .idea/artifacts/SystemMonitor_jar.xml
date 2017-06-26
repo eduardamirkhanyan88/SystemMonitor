@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SystemMonitor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SystemMonitor_jar</output-path>
+    <root id="archive" name="SystemMonitor.jar">
+      <element id="module-output" name="SystemMonitor" />
+    </root>
+  </artifact>
+</component>
